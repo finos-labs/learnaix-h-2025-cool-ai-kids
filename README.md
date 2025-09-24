@@ -1,76 +1,66 @@
-# NatWest Hack4aCause Hackathon
+# 📬 NatWest Hack4aCause hackathon Project Submission Instructions
 
-![badge-labs](https://user-images.githubusercontent.com/327285/230928932-7c75f8ed-e57b-41db-9fb7-a292a13a1e58.svg)
+## Repository Submission Requirements
 
-This repository was forked from [finos-labs/learnaix-h-2025](https://github.com/finos-labs/learnaix-h-2025).
+Each team will be required to submit a GitHub repository with their project. The repository **will** live within the [https://github.com/finos-labs](https://github.com/finos-labs) GitHub Org, and must include the information listed below.
 
-Please refer to the [HACK4ACAUSE-TEMPLATE_README.md](./HACK4ACAUSE-TEMPLATE_README.md) for complete submission instructions and project documentation requirements.
+For example, if your team’s name is `strongestavenger`, your repository will be available:
+**[`learnaix-h-2025-strongestavenger`](https://github.com/finos-labs/learnaix-h-2025-strongestavenger)**
+
+Please complete this file and include it in the `main` branch of your repository (`README.md`) along with [`HACK4ACAUSE-TEMPLATE_USECASE.docx`](./HACK4ACAUSE-TEMPLATE_USECASE.docx) when submitting your hackathon project.
 
 ---
 
-&nbsp;
+## 📄 Summary of Your Solution (under 150 words)
 
-Join us in a transformative AI hackathon focused on driving social impact in education and
-employability. Let’s work together to add the next game changer feature on to Snowflake
-LearnAIx platform, the AI-assisted, open-source learning system that you all will be helping
-build via this hackathon.
+Briefly describe: This project is a voice-enabled RAG-based Q&A system that lets users upload PDFs and query them through speech.
 
-## Purpose:
+- What problem does your solution solve?
+	- It simplifies exploring long documents by enabling hands-free, interactive question-answering with both text and audio responses—useful for accessibility, research, or business use cases.
+- How does it work?
+	1. User uploads a PDF → text is extracted, chunked, and indexed in FAISS.
+	2. User records a voice query → audio is transcribed to text.
+	3. The query is matched against the FAISS index → relevant answer retrieved.
+	4. Answer is displayed as text and spoken aloud using TTS.
 
-With LearnAIx, our goal is to develop a scalable and accessible platform that can be
-leveraged by non-profits and academies alike to enhance learning experiences and open
-doors of opportunities to all learners.
+- What technologies did you use?
+	- Gradio for UI.
+	- FAISS for semantic search.
+	- Speech recognition for transcription.
+	- Pyttsx3 for text-to-speech.
+	- Custom modules for PDF processing, RAG pipeline, and audio handling.
 
-Through your involvement in this hackathon, you will get the opportunity to socialise and
-network with like-minded enthusiasts who believe in open-source enablers for community
-benefit. You will use AI to improve learning solutions in the education sector.
+## 👥 Team Information
 
-## Objective:
+| Field            | Details                               |
+| ---------------- | ------------------------------------- |
+| Team Name        | Cool AI Kids                     	   |
+| Title            | LUMO			           |
+| Theme            | AI companion			   |
+| Contact Email    | arv.arvind@gmail.com         	   |
+| Participants     | [Harshita Khandelwal, Reshma Channappanavar, Anurag kedia, Arvind Singh] |
+| GitHub Usernames | [@arvind1606, @harshu2908, @enggreshma, @anuragkedia19]   |
 
-To create AI enabled Moodle plugins on existing LearnAIx alpha solution on Snowflake public
-platform. Shortlisted plugins will feature in the LearnAIx beta version that will be available to consume for free.
+---
 
-### Integrations & Tech stack
+## 🎥 Submission Video
 
-Plugins: Custom Moodle plugins using PHP, JavaScript, and REST APIs
-AI Integration: OpenAI APIs, LangChain, or Python-based microservices
-Hosting: Snowflake
+Provide a video walkthrough/demo of your project. You can upload it to YouTube, Google Drive, Loom, etc.
 
-## How to get started with Plugin Development
+- 📹 **Video Link**: https://youtu.be/z79zbcbOa4c
 
-- Open the provided repo
-- Navigate to `assets` folder
-- ### Step 1: Choose your runtime
+---
 
-#### You can choose to run it in one of two ways:
+## 🌐 Hosted App / Solution URL
 
-##### Option 1: Run Plugin on Snowflake
+If your solution is deployed, share the live link here.
 
-- No need to install Moodle
-- you can run the plugin directly inside your Snowflake environment.
-- _Note:_ If you only want to use Snowflake, you can _skip the local setup steps_ below.
-
-##### Option 2: Run Plugin Locally with Moodle
-
-- Install Moodle on your local machine.
-- Follow the setup guide for your OS:
-  - [Windows Guide](./example/moodle-local-setup/setup-Windows.md)
-  - [macOS/iOS Guide](./example/moodle-local-setup/setup-MacOS.md)
-- Complete the setup steps as per the guide.
-
-- ### Step 2: Create Your Plugin
-  Once you’ve decided where to run the plugin (Snowflake or Moodle), the next step is to _create your plugin_.
-
-We have provided _different plugin templates_ inside the repository:
-
-- _With PHP support_ → See the [with php](./example/plugin-development-templates/with-php/)
-- _Without PHP support_ → See the [without php](./example/plugin-development-templates/without-php/)
-
-Explore these folders and pick the template that best fits your needs.
+- 🌍 **Deployed URL**: https://github.com/finos-labs/learnaix-h-2025-cool-ai-kids.git
+---
 
 ## License
 
-&copy; Copyright 2025 FINOS
+Copyright 2025 FINOS
 
 Distributed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
