@@ -1,0 +1,473 @@
+2025-09-22 19:32:13,803 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-22 19:32:13,808 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-22 19:32:15,753 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-22 19:37:12,609 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-22 19:37:12,647 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-22 19:37:14,407 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-22 19:37:42,604 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-22 19:37:42,883 [INFO] Transcribing audio file: output.wav
+2025-09-22 19:37:50,517 [INFO] Transcription result: None
+2025-09-22 19:39:40,320 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-22 19:39:40,498 [INFO] Transcribing audio file: output.wav
+2025-09-22 19:39:45,872 [INFO] Transcription result: None
+2025-09-22 19:40:41,170 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-22 19:40:41,543 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-22 19:40:42,982 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-22 19:40:52,787 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-22 19:40:53,075 [INFO] Transcribing audio file: output.wav
+2025-09-22 19:41:01,059 [INFO] Transcription result: Hallo. Ja?
+2025-09-22 19:50:28,614 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-22 19:52:00,174 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-22 19:52:00,197 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-22 19:52:02,018 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-22 21:10:15,469 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-22 21:10:15,855 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-22 21:10:17,170 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-22 21:10:42,842 [INFO] Processing document: C:\Users\singazq\AppData\Local\Temp\gradio\a673ca944b06a2c38b42fe7841ce2fa8a115747f52956ceada847dbed0d9f4a1\DS_que.pdf
+2025-09-23 12:02:38,675 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 12:02:39,065 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 12:02:39,488 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 12:02:50,646 [INFO] Processing document: C:\Users\singazq\AppData\Local\Temp\gradio\a673ca944b06a2c38b42fe7841ce2fa8a115747f52956ceada847dbed0d9f4a1\DS_que.pdf
+2025-09-23 12:09:39,163 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 12:09:39,184 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 12:09:39,990 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 12:09:57,885 [INFO] Processing document: C:\Users\singazq\AppData\Local\Temp\gradio\a673ca944b06a2c38b42fe7841ce2fa8a115747f52956ceada847dbed0d9f4a1\DS_que.pdf
+2025-09-23 12:12:42,725 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 12:12:43,118 [INFO] Transcribing audio file: output.wav
+2025-09-23 12:12:48,987 [INFO] Transcription result: I'm sorry, I can't generate a transcript without the audio file.  Please provide the audio so I can process it.
+
+2025-09-23 12:23:21,815 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 12:23:21,975 [INFO] Transcribing audio file: output.wav
+2025-09-23 12:23:27,461 [INFO] Transcription result: Unfortunately, I am unable to generate a transcript from audio. I am a text-based AI. I require a written audio transcript or the audio data to be translated to text before I can work with it. 
+
+2025-09-23 12:23:31,796 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 12:23:31,910 [INFO] Transcribing audio file: output.wav
+2025-09-23 12:23:37,323 [INFO] Transcription result: Unfortunately, I am unable to generate a transcript of the speech in the audio because I do not have access to the actual audio file. I am a text-based AI and cannot process audio.
+2025-09-23 12:23:51,264 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 12:23:51,410 [INFO] Transcribing audio file: output.wav
+2025-09-23 12:23:58,156 [INFO] Transcription result: I'm sorry, I can't provide a transcript without the audio. Please provide the audio file or a link to it so I can generate the transcript for you.
+
+2025-09-23 12:26:40,176 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 12:26:40,541 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 12:26:41,085 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 12:26:51,374 [INFO] Processing document: C:\Users\singazq\AppData\Local\Temp\gradio\a673ca944b06a2c38b42fe7841ce2fa8a115747f52956ceada847dbed0d9f4a1\DS_que.pdf
+2025-09-23 12:28:27,609 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 12:28:27,907 [INFO] Transcribing audio file: output.wav
+2025-09-23 12:28:33,149 [INFO] Transcription result: The audio appears to contain some kind of electronic interference or static noise. It does not seem to have human speech. 
+
+2025-09-23 12:31:06,787 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 12:31:07,125 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 12:31:07,365 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 12:31:22,126 [INFO] Processing document: C:\Users\singazq\AppData\Local\Temp\gradio\a673ca944b06a2c38b42fe7841ce2fa8a115747f52956ceada847dbed0d9f4a1\DS_que.pdf
+2025-09-23 12:34:41,573 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 12:34:41,608 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 12:34:42,458 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 12:34:58,406 [INFO] Processing document: C:\Users\singazq\AppData\Local\Temp\gradio\a673ca944b06a2c38b42fe7841ce2fa8a115747f52956ceada847dbed0d9f4a1\DS_que.pdf
+2025-09-23 12:41:08,686 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 12:41:08,720 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 12:41:09,424 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 12:41:37,211 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 12:41:37,285 [INFO] Transcribing audio file: output.wav
+2025-09-23 12:41:43,374 [INFO] Transcription result: Hello, hello, hello, hello.
+2025-09-23 12:42:15,688 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 12:42:15,743 [INFO] Transcribing audio file: output.wav
+2025-09-23 12:42:21,331 [INFO] Transcription result: What is bias-variance trade-off? 
+
+2025-09-23 12:50:01,355 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 12:50:01,732 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 12:50:02,178 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 12:50:18,362 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 12:50:18,505 [INFO] Transcribing audio file: output.wav
+2025-09-23 12:50:24,312 [INFO] Transcription result: Tell me about bias variance trade off.
+
+2025-09-23 12:50:48,783 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 12:50:48,821 [INFO] Transcribing audio file: output.wav
+2025-09-23 12:50:54,943 [INFO] Transcription result: Who is Mahatma Gandhi?
+2025-09-23 12:51:20,411 [INFO] Processing document: C:\Users\singazq\AppData\Local\Temp\gradio\a673ca944b06a2c38b42fe7841ce2fa8a115747f52956ceada847dbed0d9f4a1\DS_que.pdf
+2025-09-23 13:28:43,441 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 13:28:43,904 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 13:28:44,115 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 13:28:59,758 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 13:29:00,082 [INFO] Transcribing audio file: output.wav
+2025-09-23 13:29:06,939 [INFO] Transcription result: What is the bias variance trade-off? 
+
+2025-09-23 13:30:56,386 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 13:30:56,411 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 13:30:57,087 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 13:31:10,301 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 13:31:10,353 [INFO] Transcribing audio file: output.wav
+2025-09-23 13:31:11,217 [INFO] AFC is enabled with max remote calls: 10.
+2025-09-23 13:31:15,907 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-tts:generateContent "HTTP/1.1 200 OK"
+2025-09-23 13:31:15,909 [INFO] AFC remote call 1 is done.
+2025-09-23 13:31:16,374 [INFO] Transcription result: What is the bias-variance trade-off?
+
+2025-09-23 13:34:04,348 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 13:34:04,391 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 13:34:05,192 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 13:34:15,318 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 13:34:15,388 [INFO] Transcribing audio file: output.wav
+2025-09-23 13:34:16,255 [INFO] AFC is enabled with max remote calls: 10.
+2025-09-23 13:34:20,583 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-tts:generateContent "HTTP/1.1 200 OK"
+2025-09-23 13:34:21,082 [INFO] Transcription result: What is bias variance trade-off?
+
+2025-09-23 13:34:21,558 [INFO] AFC remote call 1 is done.
+2025-09-23 13:35:53,426 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 13:35:53,468 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 13:35:54,165 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 13:36:16,925 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 13:36:16,985 [INFO] Transcribing audio file: output.wav
+2025-09-23 13:36:17,872 [INFO] AFC is enabled with max remote calls: 10.
+2025-09-23 13:36:22,732 [INFO] Transcription result: What is bias variance trade-off?
+
+2025-09-23 13:36:24,138 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-tts:generateContent "HTTP/1.1 200 OK"
+2025-09-23 13:36:25,069 [INFO] AFC remote call 1 is done.
+2025-09-23 13:38:31,610 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 13:38:31,672 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 13:38:32,101 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 13:38:45,297 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 13:38:45,362 [INFO] Transcribing audio file: output.wav
+2025-09-23 13:38:46,039 [INFO] AFC is enabled with max remote calls: 10.
+2025-09-23 13:38:50,055 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-tts:generateContent "HTTP/1.1 200 OK"
+2025-09-23 13:38:51,033 [INFO] AFC remote call 1 is done.
+2025-09-23 13:38:51,805 [INFO] Transcription result: What is bias-variance trade-off?
+
+2025-09-23 13:42:16,497 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 13:42:16,876 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 13:42:17,198 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 13:42:28,509 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 13:42:28,568 [INFO] Stop recording returned: ✅ Recording stopped. Saved to output.wav, file: output.wav
+2025-09-23 13:42:28,568 [INFO] Transcribing audio file: output.wav
+2025-09-23 13:42:29,528 [INFO] AFC is enabled with max remote calls: 10.
+2025-09-23 13:42:34,409 [INFO] Transcription result: What is Bayes-variant state of?
+2025-09-23 13:42:36,394 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-tts:generateContent "HTTP/1.1 200 OK"
+2025-09-23 13:42:37,356 [INFO] AFC remote call 1 is done.
+2025-09-23 13:46:21,324 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 13:46:21,663 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 13:46:21,863 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 13:46:44,092 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 13:46:44,198 [INFO] Stop recording returned: ✅ Recording stopped. Saved to output.wav, file: output.wav
+2025-09-23 13:46:44,199 [INFO] Transcribing audio file: output.wav
+2025-09-23 13:46:45,102 [INFO] AFC is enabled with max remote calls: 10.
+2025-09-23 13:46:49,984 [INFO] Transcription result: What is bias variance trade off?
+
+2025-09-23 13:46:58,277 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-tts:generateContent "HTTP/1.1 200 OK"
+2025-09-23 13:46:58,279 [INFO] AFC remote call 1 is done.
+2025-09-23 13:48:53,872 [INFO] AFC is enabled with max remote calls: 10.
+2025-09-23 13:48:54,339 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-tts:generateContent "HTTP/1.1 400 Bad Request"
+2025-09-23 13:48:54,457 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 13:54:23,267 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 13:54:23,311 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 13:54:24,053 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 13:54:42,569 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 13:54:42,626 [INFO] Stop recording returned: ✅ Recording stopped. Saved to output.wav, file: output.wav
+2025-09-23 13:54:42,627 [INFO] Transcribing audio file: output.wav
+2025-09-23 13:54:48,432 [INFO] Transcription result: What is bias-variance trade-off?
+
+2025-09-23 13:54:51,875 [INFO] AFC is enabled with max remote calls: 10.
+2025-09-23 13:55:31,656 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-tts:generateContent "HTTP/1.1 200 OK"
+2025-09-23 13:55:33,542 [INFO] AFC remote call 1 is done.
+2025-09-23 14:05:39,826 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 14:05:40,179 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 14:05:40,580 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 14:05:59,099 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 14:05:59,167 [INFO] Stop recording returned: ✅ Recording stopped. Saved to output.wav, file: output.wav
+2025-09-23 14:05:59,168 [INFO] Transcribing audio file: output.wav
+2025-09-23 14:06:05,888 [INFO] Transcription result: What is bias variance trade-off?
+
+2025-09-23 14:06:08,350 [INFO] AFC is enabled with max remote calls: 10.
+2025-09-23 14:07:35,382 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 14:07:35,396 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 14:07:36,316 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 14:07:54,952 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 14:07:55,032 [INFO] Stop recording returned: ✅ Recording stopped. Saved to output.wav, file: output.wav
+2025-09-23 14:07:55,032 [INFO] Transcribing audio file: output.wav
+2025-09-23 14:08:01,601 [INFO] Transcription result: What is bias variance tradeoff?
+2025-09-23 14:08:13,021 [INFO] AFC is enabled with max remote calls: 10.
+2025-09-23 14:08:34,159 [INFO] HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-tts:generateContent "HTTP/1.1 200 OK"
+2025-09-23 14:08:36,012 [INFO] AFC remote call 1 is done.
+2025-09-23 15:23:53,226 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 15:23:53,605 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 15:23:55,105 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 15:25:26,877 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 15:27:15,901 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 15:27:15,939 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 15:27:17,904 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 15:28:03,338 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 15:28:03,464 [INFO] Stop recording returned: ✅ Recording stopped. Saved to output.wav, file: output.wav
+2025-09-23 15:28:03,465 [INFO] Transcribing audio file: output.wav
+2025-09-23 15:28:10,017 [INFO] Transcription result: What is bias and variance tradeoff?
+2025-09-23 15:28:18,767 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\singazq\\AppData\\Local\\miniconda3\\envs\\env_gemini\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-23 15:28:18,768 [INFO] Using writeable comtypes cache directory: 'C:\Users\singazq\AppData\Local\miniconda3\envs\env_gemini\Lib\site-packages\comtypes\gen'
+2025-09-23 15:57:29,151 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 15:57:29,610 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 15:57:31,118 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 16:05:19,305 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 16:05:19,744 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 16:05:21,015 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 16:05:50,632 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 16:05:50,714 [INFO] Stop recording returned: ✅ Recording stopped. Saved to output.wav, file: output.wav
+2025-09-23 16:05:50,715 [INFO] Transcribing audio file: output.wav
+2025-09-23 16:05:57,874 [INFO] Transcription result: Bias and variant trade off.
+2025-09-23 16:06:00,935 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\singazq\\AppData\\Local\\miniconda3\\envs\\env_gemini\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-23 16:06:00,936 [INFO] Using writeable comtypes cache directory: 'C:\Users\singazq\AppData\Local\miniconda3\envs\env_gemini\Lib\site-packages\comtypes\gen'
+2025-09-23 18:08:12,495 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 18:08:12,883 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 18:08:24,546 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 18:08:35,778 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 18:08:36,889 [INFO] Transcription result: 📝 Transcript: hello I want to ask some questions
+2025-09-23 18:08:39,798 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\singazq\\AppData\\Local\\miniconda3\\envs\\env_gemini\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-23 18:08:39,799 [INFO] Using writeable comtypes cache directory: 'C:\Users\singazq\AppData\Local\miniconda3\envs\env_gemini\Lib\site-packages\comtypes\gen'
+2025-09-23 18:12:28,436 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 18:12:28,450 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 18:12:40,371 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 18:13:04,055 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 18:13:04,866 [INFO] Transcription result: 📝 Transcript: what is gradient
+2025-09-23 18:13:07,571 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\singazq\\AppData\\Local\\miniconda3\\envs\\env_gemini\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-23 18:13:07,572 [INFO] Using writeable comtypes cache directory: 'C:\Users\singazq\AppData\Local\miniconda3\envs\env_gemini\Lib\site-packages\comtypes\gen'
+2025-09-23 18:14:32,205 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 18:14:32,819 [INFO] Transcription result: 📝 Transcript: what is confusion mat
+2025-09-23 18:15:24,519 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 18:15:32,327 [INFO] Transcription result: 📝 Transcript: what is the confusion Matrix explain to my
+2025-09-23 18:16:47,641 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 18:16:48,150 [INFO] Transcription result: 📝 Transcript: Who is the author of this
+2025-09-23 18:21:08,456 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 18:21:08,971 [INFO] Transcription result: 📝 Transcript: Who is the author of this
+2025-09-23 18:21:31,538 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 18:21:32,253 [INFO] Transcription result: 📝 Transcript: what do you understand by normal
+2025-09-23 18:22:28,942 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 18:22:29,320 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 18:22:40,799 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 18:22:43,588 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 18:22:44,834 [INFO] Transcription result: and gradient descent
+2025-09-23 18:22:47,768 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\singazq\\AppData\\Local\\miniconda3\\envs\\env_gemini\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-23 18:22:47,769 [INFO] Using writeable comtypes cache directory: 'C:\Users\singazq\AppData\Local\miniconda3\envs\env_gemini\Lib\site-packages\comtypes\gen'
+2025-09-23 18:23:03,292 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 18:23:07,925 [INFO] Transcription result: ❌ Could not understand audio.
+2025-09-23 18:23:40,156 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 18:23:40,706 [INFO] Transcription result: what do you understand by
+2025-09-23 18:27:08,626 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 18:27:08,640 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 18:27:20,517 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 18:27:24,904 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 18:27:25,724 [INFO] Transcription result: 📝 Transcript: standard deviation
+2025-09-23 18:27:27,868 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\singazq\\AppData\\Local\\miniconda3\\envs\\env_gemini\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-23 18:27:27,868 [INFO] Using writeable comtypes cache directory: 'C:\Users\singazq\AppData\Local\miniconda3\envs\env_gemini\Lib\site-packages\comtypes\gen'
+2025-09-23 18:27:44,614 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 18:27:45,305 [INFO] Transcription result: 📝 Transcript: what is normal distribution explain in detail
+2025-09-23 18:37:12,504 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 18:37:13,354 [INFO] Transcription result: 📝 Transcript: gradient De
+2025-09-23 18:38:01,085 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 18:38:01,470 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 18:38:12,950 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 18:38:17,904 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 18:38:18,768 [INFO] Transcription result: ('📝 Finding the answer!!', 'what is gradient')
+2025-09-23 18:39:08,276 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 18:39:08,955 [INFO] Transcription result: ('📝 Finding the answer!!', 'Who is the author of')
+2025-09-23 18:39:53,926 [INFO] Processing document: C:\Users\singazq\AppData\Local\Temp\gradio\a673ca944b06a2c38b42fe7841ce2fa8a115747f52956ceada847dbed0d9f4a1\DS_que.pdf
+2025-09-23 18:41:04,173 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 18:41:04,173 [INFO] Transcription result: ⚠️ Recording not finished yet. Please wait...
+2025-09-23 18:42:51,327 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 18:42:51,352 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 18:43:02,930 [INFO] Processing document: C:\Users\singazq\AppData\Local\Temp\gradio\a673ca944b06a2c38b42fe7841ce2fa8a115747f52956ceada847dbed0d9f4a1\DS_que.pdf
+2025-09-23 18:43:03,496 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 18:43:57,204 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 18:43:58,326 [INFO] Transcription result: what is gradient De
+2025-09-23 18:44:00,875 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\singazq\\AppData\\Local\\miniconda3\\envs\\env_gemini\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-23 18:44:00,876 [INFO] Using writeable comtypes cache directory: 'C:\Users\singazq\AppData\Local\miniconda3\envs\env_gemini\Lib\site-packages\comtypes\gen'
+2025-09-23 18:44:20,956 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 18:44:21,656 [INFO] Transcription result: Who is the author of this
+2025-09-23 18:48:25,305 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 18:48:25,659 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 18:48:34,309 [INFO] Processing document: C:\Users\singazq\AppData\Local\Temp\gradio\a673ca944b06a2c38b42fe7841ce2fa8a115747f52956ceada847dbed0d9f4a1\DS_que.pdf
+2025-09-23 18:48:37,328 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 18:49:25,172 [INFO] Stop button clicked. Attempting to stop recording...
+2025-09-23 18:49:25,967 [INFO] Transcription result: what is gradient De
+2025-09-23 18:49:28,242 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\singazq\\AppData\\Local\\miniconda3\\envs\\env_gemini\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-23 18:49:28,243 [INFO] Using writeable comtypes cache directory: 'C:\Users\singazq\AppData\Local\miniconda3\envs\env_gemini\Lib\site-packages\comtypes\gen'
+2025-09-23 18:52:33,306 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 18:52:33,322 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 18:52:45,188 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 18:52:51,308 [INFO] Processing document: C:\Users\singazq\AppData\Local\Temp\gradio\a673ca944b06a2c38b42fe7841ce2fa8a115747f52956ceada847dbed0d9f4a1\DS_que.pdf
+2025-09-23 18:53:19,750 [INFO] RAG system ready.
+2025-09-23 18:53:32,378 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 18:53:33,377 [INFO] Transcription result: what is gradient descent
+2025-09-23 19:03:18,784 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 19:03:19,143 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 19:03:30,772 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 19:03:40,438 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 19:03:41,293 [INFO] Transcription result: hello how r u
+2025-09-23 19:06:02,049 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 19:06:02,081 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 19:06:13,933 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 19:06:23,888 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 19:06:26,611 [INFO] Transcription result: hello how r u i want to ask a question
+2025-09-23 19:06:28,900 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\singazq\\AppData\\Local\\miniconda3\\envs\\env_gemini\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-23 19:06:28,901 [INFO] Using writeable comtypes cache directory: 'C:\Users\singazq\AppData\Local\miniconda3\envs\env_gemini\Lib\site-packages\comtypes\gen'
+2025-09-23 19:49:17,602 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 19:49:17,984 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 19:49:29,484 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 19:49:44,010 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 19:49:44,011 [INFO] Transcription result: 
+2025-09-23 19:51:15,393 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 19:51:15,419 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 19:51:27,782 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 19:51:51,814 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 19:51:53,433 [INFO] Transcription result: what is gradient distant
+2025-09-23 19:52:03,770 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\singazq\\AppData\\Local\\miniconda3\\envs\\env_gemini\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-23 19:52:03,771 [INFO] Using writeable comtypes cache directory: 'C:\Users\singazq\AppData\Local\miniconda3\envs\env_gemini\Lib\site-packages\comtypes\gen'
+2025-09-23 19:56:47,769 [INFO] Processing document: C:\Users\singazq\AppData\Local\Temp\gradio\a673ca944b06a2c38b42fe7841ce2fa8a115747f52956ceada847dbed0d9f4a1\DS_que.pdf
+2025-09-23 19:57:17,847 [INFO] RAG system ready.
+2025-09-23 19:57:44,293 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 19:57:44,845 [INFO] Transcription result: what is normal
+2025-09-23 19:58:16,234 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 19:58:18,080 [INFO] Transcription result: what is normal
+2025-09-23 20:00:05,887 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:00:06,596 [INFO] Transcription result: what is normal
+2025-09-23 20:00:53,789 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 20:00:54,170 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 20:01:05,605 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 20:01:14,757 [INFO] Processing document: C:\Users\singazq\AppData\Local\Temp\gradio\a673ca944b06a2c38b42fe7841ce2fa8a115747f52956ceada847dbed0d9f4a1\DS_que.pdf
+2025-09-23 20:01:45,957 [INFO] RAG system ready.
+2025-09-23 20:02:00,575 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:02:01,439 [INFO] Transcription result: what is normal distribution
+2025-09-23 20:02:01,587 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\singazq\\AppData\\Local\\miniconda3\\envs\\env_gemini\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-23 20:02:01,588 [INFO] Using writeable comtypes cache directory: 'C:\Users\singazq\AppData\Local\miniconda3\envs\env_gemini\Lib\site-packages\comtypes\gen'
+2025-09-23 20:02:04,481 [INFO] HTTP Request: GET https://172.67.72.186/YCZH.gif "HTTP/1.1 200 OK"
+2025-09-23 20:03:07,982 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 20:03:08,010 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 20:03:19,828 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 20:04:04,484 [INFO] Processing document: C:\Users\singazq\AppData\Local\Temp\gradio\a673ca944b06a2c38b42fe7841ce2fa8a115747f52956ceada847dbed0d9f4a1\DS_que.pdf
+2025-09-23 20:04:32,530 [INFO] RAG system ready.
+2025-09-23 20:04:42,444 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:04:43,321 [INFO] Transcription result: what is normal distribution
+2025-09-23 20:04:43,462 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\singazq\\AppData\\Local\\miniconda3\\envs\\env_gemini\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-23 20:04:43,463 [INFO] Using writeable comtypes cache directory: 'C:\Users\singazq\AppData\Local\miniconda3\envs\env_gemini\Lib\site-packages\comtypes\gen'
+2025-09-23 20:04:56,262 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:04:57,139 [INFO] Transcription result: what is normal distribution in
+2025-09-23 20:05:18,374 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:05:18,928 [INFO] Transcription result: what is normal
+2025-09-23 20:11:42,615 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 20:11:42,652 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 20:11:54,723 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 20:11:58,762 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:12:02,010 [INFO] Transcription result: are you able to listen me complete
+2025-09-23 20:12:02,183 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\singazq\\AppData\\Local\\miniconda3\\envs\\env_gemini\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-23 20:12:02,185 [INFO] Using writeable comtypes cache directory: 'C:\Users\singazq\AppData\Local\miniconda3\envs\env_gemini\Lib\site-packages\comtypes\gen'
+2025-09-23 20:12:23,462 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:12:24,715 [INFO] Transcription result: I want to test the listening capacity of yourself
+2025-09-23 20:12:33,428 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:12:34,126 [INFO] Transcription result: what is happening here
+2025-09-23 20:14:50,606 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 20:14:50,636 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 20:15:02,501 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 20:15:42,760 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:15:42,761 [INFO] Transcription result: 
+2025-09-23 20:15:42,877 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\singazq\\AppData\\Local\\miniconda3\\envs\\env_gemini\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-23 20:15:42,877 [INFO] Using writeable comtypes cache directory: 'C:\Users\singazq\AppData\Local\miniconda3\envs\env_gemini\Lib\site-packages\comtypes\gen'
+2025-09-23 20:16:28,356 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 20:16:28,744 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 20:16:40,331 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 20:16:49,193 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:16:49,193 [INFO] Transcription result: 
+2025-09-23 20:16:49,289 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\singazq\\AppData\\Local\\miniconda3\\envs\\env_gemini\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-23 20:16:49,289 [INFO] Using writeable comtypes cache directory: 'C:\Users\singazq\AppData\Local\miniconda3\envs\env_gemini\Lib\site-packages\comtypes\gen'
+2025-09-23 20:17:48,109 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 20:17:48,135 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 20:17:59,970 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 20:18:18,643 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:18:19,492 [INFO] Transcription result: let me touch the
+2025-09-23 20:18:36,646 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:18:36,646 [INFO] Transcription result: 
+2025-09-23 20:19:02,417 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:19:02,417 [INFO] Transcription result: 
+2025-09-23 20:19:02,587 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\singazq\\AppData\\Local\\miniconda3\\envs\\env_gemini\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-23 20:19:02,587 [INFO] Using writeable comtypes cache directory: 'C:\Users\singazq\AppData\Local\miniconda3\envs\env_gemini\Lib\site-packages\comtypes\gen'
+2025-09-23 20:19:27,234 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 20:19:27,279 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 20:19:39,174 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 20:19:43,576 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:19:45,407 [INFO] Transcription result: is the recording working properly I want to check it now
+2025-09-23 20:19:45,565 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\singazq\\AppData\\Local\\miniconda3\\envs\\env_gemini\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-23 20:19:45,565 [INFO] Using writeable comtypes cache directory: 'C:\Users\singazq\AppData\Local\miniconda3\envs\env_gemini\Lib\site-packages\comtypes\gen'
+2025-09-23 20:19:59,947 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:19:59,948 [INFO] Transcription result: 
+2025-09-23 20:20:10,823 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:20:10,824 [INFO] Transcription result: 
+2025-09-23 20:20:13,693 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:20:13,693 [INFO] Transcription result: 
+2025-09-23 20:20:28,310 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:20:28,311 [INFO] Transcription result: 
+2025-09-23 20:22:45,419 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 20:22:45,448 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 20:22:57,341 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 20:23:15,878 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:23:15,878 [INFO] Transcription result: 
+2025-09-23 20:23:15,986 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\singazq\\AppData\\Local\\miniconda3\\envs\\env_gemini\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-23 20:23:15,987 [INFO] Using writeable comtypes cache directory: 'C:\Users\singazq\AppData\Local\miniconda3\envs\env_gemini\Lib\site-packages\comtypes\gen'
+2025-09-23 20:23:33,528 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:23:33,529 [INFO] Transcription result: 
+2025-09-23 20:24:33,650 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 20:24:33,666 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 20:24:44,778 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:24:45,464 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 20:24:45,741 [INFO] Transcription result: let me test the recording
+2025-09-23 20:24:45,906 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\singazq\\AppData\\Local\\miniconda3\\envs\\env_gemini\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-23 20:24:45,907 [INFO] Using writeable comtypes cache directory: 'C:\Users\singazq\AppData\Local\miniconda3\envs\env_gemini\Lib\site-packages\comtypes\gen'
+2025-09-23 20:25:38,239 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 20:25:38,267 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 20:25:48,379 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:25:49,993 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 20:27:35,083 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 20:27:35,117 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 20:27:46,928 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 20:27:48,077 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:28:17,614 [INFO] Transcription result: 
+2025-09-23 20:28:25,874 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 20:28:25,896 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 20:28:37,044 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:28:37,667 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 20:30:08,538 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 20:30:08,554 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 20:30:20,285 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 20:30:30,137 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:30:30,138 [INFO] Transcription result: 
+2025-09-23 20:30:30,292 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\singazq\\AppData\\Local\\miniconda3\\envs\\env_gemini\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-23 20:30:30,293 [INFO] Using writeable comtypes cache directory: 'C:\Users\singazq\AppData\Local\miniconda3\envs\env_gemini\Lib\site-packages\comtypes\gen'
+2025-09-23 20:31:35,657 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 20:31:36,029 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 20:31:47,619 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 20:31:48,543 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:31:50,136 [INFO] Transcription result: I am testing the recording
+2025-09-23 20:31:50,266 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\singazq\\AppData\\Local\\miniconda3\\envs\\env_gemini\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-23 20:31:50,267 [INFO] Using writeable comtypes cache directory: 'C:\Users\singazq\AppData\Local\miniconda3\envs\env_gemini\Lib\site-packages\comtypes\gen'
+2025-09-23 20:32:37,709 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 20:32:37,725 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 20:32:49,574 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 20:32:49,911 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:32:50,516 [INFO] Transcription result: the recording
+2025-09-23 20:32:50,655 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\singazq\\AppData\\Local\\miniconda3\\envs\\env_gemini\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-23 20:32:50,655 [INFO] Using writeable comtypes cache directory: 'C:\Users\singazq\AppData\Local\miniconda3\envs\env_gemini\Lib\site-packages\comtypes\gen'
+2025-09-23 20:33:18,128 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 20:33:18,145 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 20:33:29,562 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:33:29,968 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 20:33:31,566 [INFO] Transcription result: listening
+2025-09-23 20:33:31,755 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\singazq\\AppData\\Local\\miniconda3\\envs\\env_gemini\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-23 20:33:31,755 [INFO] Using writeable comtypes cache directory: 'C:\Users\singazq\AppData\Local\miniconda3\envs\env_gemini\Lib\site-packages\comtypes\gen'
+2025-09-23 20:33:42,227 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:33:42,228 [INFO] Transcription result: 
+2025-09-23 20:33:47,227 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:33:47,228 [INFO] Transcription result: 
+2025-09-23 20:33:52,756 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:33:52,756 [INFO] Transcription result: 
+2025-09-23 20:34:04,165 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:34:05,045 [INFO] Transcription result: are you able to listen the
+2025-09-23 20:37:29,101 [INFO] HTTP Request: GET http://127.0.0.1:7860/gradio_api/startup-events "HTTP/1.1 200 OK"
+2025-09-23 20:37:29,117 [INFO] HTTP Request: HEAD http://127.0.0.1:7860/ "HTTP/1.1 200 OK"
+2025-09-23 20:37:41,493 [INFO] HTTP Request: GET https://api.gradio.app/pkg-version "HTTP/1.1 200 OK"
+2025-09-23 20:37:43,561 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:37:46,473 [INFO] Transcription result: testing the recording capability are you able to record me properly
+2025-09-23 20:37:46,591 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\singazq\\AppData\\Local\\miniconda3\\envs\\env_gemini\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-09-23 20:37:46,592 [INFO] Using writeable comtypes cache directory: 'C:\Users\singazq\AppData\Local\miniconda3\envs\env_gemini\Lib\site-packages\comtypes\gen'
+2025-09-23 20:38:13,194 [INFO] Stop button clicked. Attempting to transcribe...
+2025-09-23 20:38:14,468 [INFO] Transcription result: testing it once again let me check test generation to
